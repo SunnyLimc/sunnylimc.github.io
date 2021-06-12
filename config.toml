@@ -1,0 +1,16 @@
+baseURL = "https://limc.cloud"
+defaultContentLanguage = "zh-cn"
+languageCode = "zh-CN"
+hasCJKLanguage = true
+title = "Limc's Blog"
+
+theme = "LoveIt"
+
+[params]
+  version = "0.2.X"
+
+[menu]
+
+[markup]
+  [markup.highlight]
+    noClasses = false
